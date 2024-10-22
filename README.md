@@ -8,11 +8,12 @@ This repository involves all the CUDA code that I write in C++ to learn CUDA GPU
 2. 2.number_addition    - A simple program that adds two numbers in the GPU and prints the output
 
 3. 3.count_till_billion - A simple program to count till a billion using CPU and GPU and then compare their performance
-![screenshot](Resources/billion_count.png)
+
 <img src="Resources/billion_count.png" width="300" />
 
 4. 4.vector_addition    - A program to add two vectors of length n using CPU and GPU and then compare their performance
-![screenshot](Resources/vector_addition_performance.png)
+
+<img src="Resources/vector_addition_performance.png" width="300" />
 ---------------------------------------------------------------------------------------------------------------------------
 # System Specifications
 
