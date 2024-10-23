@@ -17,6 +17,7 @@ This repository involves all the CUDA code that I write in C++ to learn CUDA GPU
 
 5. 5.blocks_threads     - A simple program to learn about dim3 vector type for understanding grids/blocks/threads
                           Total number of threads = No. of blocks * No. of threads per block
+    
     <img src="Resources/blocks_threads.png" width="300" />
 ---------------------------------------------------------------------------------------------------------------------------
 # My System Specifications
