@@ -14,6 +14,8 @@ This repository involves all the CUDA code that I write in C++ to learn CUDA GPU
 4. 4.vector_addition    - A program to add two vectors of length n using CPU and GPU and then compare their performance
 
     <img src="Resources/vector_addition_performance.png" width="300" />
+5. 5.blocks_threads     - A simple program to learn about dim3 vector type for understanding grids/blocks/threads
+    <img src="Resources/blocks_threads.png" width="300" />
 ---------------------------------------------------------------------------------------------------------------------------
 # System Specifications
 
