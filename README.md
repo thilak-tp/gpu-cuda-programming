@@ -1,7 +1,8 @@
 # CUDA Programming Projects
+This repository involves all the CUDA code that I write in C++ to learn CUDA GPU Programming
 ![screenshot](Resources/repo_banner.png)
 
-This repository involves all the CUDA code that I write in C++ to learn CUDA GPU Programming
+
 
 1. 1.basic_hello_world  - A simple hello world program
 
